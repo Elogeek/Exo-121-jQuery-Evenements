@@ -1,3 +1,3 @@
-$("selector").event(function(){
-    $(this).hide();
+$("p").hover(function(){
+    $(this).hide().event;
 });
